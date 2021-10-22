@@ -1,2 +1,2 @@
-# Dasar2-Python
+# Dasar-Python
 File2 dasar belajar python
